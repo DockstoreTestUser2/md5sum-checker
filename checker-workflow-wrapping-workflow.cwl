@@ -14,7 +14,9 @@ requirements:
 #  foaf:mbox: mailto:denis.yuen@oicr.on.ca
 
 inputs:
-  input_file: File
+  input_file: 
+    type: File
+    format: file://fakeFileFormat
   expected_md5: string
 
 outputs:
