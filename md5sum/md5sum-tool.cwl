@@ -23,7 +23,7 @@ hints:
 
 inputs:
   input_file:
-    format: fakeFileFormat
+    format: file://fakeFileFormat
     type: File
     inputBinding:
       position: 1
