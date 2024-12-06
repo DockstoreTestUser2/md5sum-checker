@@ -20,4 +20,4 @@ Run with the following command:
 
 ## WDL
 ### WDL Workflow with Checker Workflow:
-Coming Soon.
+Coming.
