@@ -1,6 +1,8 @@
 # Set the base image to Ubuntu
 FROM ubuntu:16.04
 
+LABEL version="1.0"
+
 # Setup packages
 USER root
 
